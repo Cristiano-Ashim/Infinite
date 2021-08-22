@@ -1,0 +1,13 @@
+.scrollListContainer {
+    height: 200px;
+}
+
+.list {
+    list-style-type: none;
+}
+
+
+#loader {
+    border: 5px solid blue;
+
+}
